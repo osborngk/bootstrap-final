@@ -1,0 +1,55 @@
+
+body { font-family: 'Source Sans Pro', sans-serif; font-size: 1rem; word-spacing: .1rem;}
+
+/* Home */
+#home {
+	padding-top: 150px;
+    background-color: #FFFFFF;
+}
+
+.logo {
+	height: 250px;
+	width: 250px;
+}
+
+.carousel{
+	width: 75%;
+    padding-left: 275px;
+    }
+
+.btn-primary{
+    background-color: #BD3039;
+    text-align: center;
+}
+
+.navbar{
+    height: 100px;
+    }
+
+/* Roster */
+#roster {
+	background-color: #BD3039;
+}
+
+/* Schedule */
+#schedule {
+    background-color: #FFFFFF;
+}
+
+/* Stats */
+#stats {
+	background-color: #BD3039;
+}
+
+
+/* History */
+#history {
+	background-color: #FFFFFF;
+}
+
+
+/* Citations */
+#citations{
+    color: #fff;
+    text-align: center;
+}
